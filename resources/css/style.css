@@ -1,6 +1,20 @@
 html {
-  font-family: Helvetica
-  align: center;
-  
+  font-family: Helvetica;
+  text-align: center;
+  align-items: center;
+}
 
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.head {
+  background-image: url("./resorces/images/the-flatiron-building.png");
+}
+
+li {
+  font-size: 18px;
+  color: white;
 }
