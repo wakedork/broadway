@@ -38,10 +38,23 @@ p {
   background-image: url("../images/the-flatiron-building.png");
 }
 
+.footer {
+  background-color: dimgray;
+      text-align: left;
+}
+
 li {
   list-style-type: none;
   font-size: 18px;
   color: white;
+}
+
+.footer ol, .footer li {
+    display: inline;
+    font-size: 11px;
+    color: white;
+    text-align: left;
+    padding: 0px:
 }
 
 a {
