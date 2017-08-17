@@ -11,10 +11,15 @@ h1 {
 }
 
 .head {
-  background-image: url("./resorces/images/the-flatiron-building.png");
+  background-image: url("../images/the-flatiron-building.png");
 }
 
 li {
+  list-style-type: none;
   font-size: 18px;
   color: white;
+}
+
+a {
+    color: white;
 }
